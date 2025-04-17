@@ -1,4 +1,4 @@
-# translate-datePicker-primeNg-v19-
+# translate-datePicker-primeNg-v19
 Tradução do component p-datePicker do primeNG, funciona na última versão v19, a única testada.
 
 # Crie um arquivo para ser usado globalmente, exemplo: src\app\utils\primeng-pt.config.ts
